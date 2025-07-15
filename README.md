@@ -1,1 +1,2 @@
 # Task_04_Descriptive_Stats
+This project involves an analysis of political communication during the 2024 U.S. Presidential Election, utilizing datasets from Facebook Ads, Facebook Posts, and Twitter Posts. My work focused on extracting, cleaning, and summarizing data using three distinct approaches: pure Python, Pandas, and Polars. By applying each of these methods, I was able to compute key descriptive statistics, such as counts, means, minimums, maximums, and standard deviations for both numeric and categorical variables.
